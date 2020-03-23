@@ -1,7 +1,7 @@
 # vision-board-CRUD-login
 
 
-![Vision Board](public/thumbnail.png)
+![Vision Board](public/img/thumbnail.png)
 
 ## Installation
 
